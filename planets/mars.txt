@@ -1,0 +1,4 @@
+ Cold and dry, but everything is my favorite color`
+Test addition by vim
+Test git diff
+m
